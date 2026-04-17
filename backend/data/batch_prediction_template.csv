@@ -1,0 +1,2 @@
+age,gender,education,department,job_role,experience_years,manager_tenure,projects_count,avg_task_delay_days,on_time_delivery_rate,bug_count,code_review_score,productivity_score,training_hours,certifications_count,sick_days,unplanned_absences,avg_login_hours,peer_feedback_score,manager_score,kudos_count,promotions_in_2y,salary_percentile_band
+30,Male,Bachelors,Engineering,Software Engineer,5,3,6,2,0.88,4,4.2,82,20,2,2,1,8.5,4.3,4.4,7,1,Medium
